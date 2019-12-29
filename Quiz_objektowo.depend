@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1577620798 source:e:\it\c++\objektowe\quiz_objektowo\quiz_objektowo\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1577620109 source:e:\it\c++\objektowe\quiz_objektowo\quiz_objektowo\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1577620061 e:\it\c++\objektowe\quiz_objektowo\quiz_objektowo\pytanie.h
+	<iostream>
+
